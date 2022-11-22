@@ -2,7 +2,7 @@
 
 d = { 'settings': { 'branch': 'master',
                 'doc_baseurl': '/til/',
-                'doc_host': 'https://masapasa.github.io',
-                'git_url': 'https://github.com/masapasa/til/',
+                'doc_host': 'https://apyakurel.github.io',
+                'git_url': 'https://github.com/apyakurel/til/',
                 'lib_path': 'til'},
   'syms': {}}
